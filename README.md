@@ -17,7 +17,7 @@ Hold the power button to start your Mac & boot into recovery mode.
 A. Apple-based Silicon M Mac: Hold Power button.
 
 
-B. Intel-based iintel T2 Mac: Hold CMD + R during boot.
+B. Intel-based intel T2 Mac: Hold CMD + R during boot.
 
 
 Connect to WiFi to activate your Mac.
@@ -25,7 +25,7 @@ Connect to WiFi to activate your Mac.
 
 Enter Recovery Mode & Open Safari.
 
-Navigate to https://www.github.com/pasun-dev/mdm
+Navigate to https://www.github.com/pasun-dev/bypassm
 
 Copy the script below:
 
