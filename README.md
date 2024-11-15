@@ -22,12 +22,12 @@ Prerequisites ⚠️
 
 4. Enter Recovery Mode & Open Safari.
 
-5. Navigate to https://www.github.com/assafdori/bypass-mdm
+
 
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/pasun-dev/pasun-dev/refs/heads/main/bypass.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
